@@ -1,0 +1,11 @@
+{
+  "Modules": {
+
+    "Cartooniser": {
+      "LaunchSettings": {
+        "AutoStart": false,
+        "Runtime": "python3.9"
+      }
+    }
+  }
+}
